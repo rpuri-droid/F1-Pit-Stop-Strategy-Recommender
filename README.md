@@ -1,4 +1,4 @@
-#F1 Pit Stop Strategy Recommender
+# F1 Pit Stop Strategy Recommender
 
 Pit stop strategy is one of the most critical factors influencing success in Formula 1.  
 The timing of stops, number of stops, tire choices, and interaction with weather and circuit layout can make the difference between winning and finishing outside the points.
